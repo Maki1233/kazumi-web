@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.log
+_t.jsx
+.DS_Store
